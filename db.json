@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "59b08bd3-5b06-46bc-bf60-a66f81682abf",
+      "title": "Ir na Academia",
+      "time": "morning",
+      "description": "Malhação",
+      "status": "done"
+    },
+    {
+      "id": "fb1a711c-a6b1-415b-a796-980664d5af52",
+      "title": "Ler um Livro",
+      "time": "evening",
+      "description": "Eduque seu cérebro!",
+      "status": "not_started"
+    },
+    {
+      "id": "9771f832-5944-4c51-96a8-f790ef4f90c7",
+      "title": "Trabalho",
+      "time": "afternoon",
+      "description": "Gere resultados!",
+      "status": "in_progress"
+    },
+    {
+      "id": "3d4aebb9-9424-4c28-b75a-64dd8881493a",
+      "title": "Estudar",
+      "time": "afternoon",
+      "description": "Não esqueça das boas práticas",
+      "status": "not_started"
+    }
+  ]
+}
